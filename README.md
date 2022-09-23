@@ -21,6 +21,9 @@ php artisan db:seed
 
 php artisan passport:install
 ```
+Admin credentials<br/>
+Email: admin@gmail.com<br/>
+Password: admin
 
 
 ## License
